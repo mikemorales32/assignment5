@@ -57,7 +57,7 @@
 
             <q-item-section>
               <q-item-label class="text-subtitle1">
-                <strong>George Royce</strong>
+                <strong>Michael Morales</strong>
                 <span class="text-grey-7">
                 @manizha_salomova
                 <br class="lt-md">&bull; {{qweet.date | relativeDate}}
